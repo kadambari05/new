@@ -1,0 +1,3 @@
+[submodule "gitprac"]
+	path = gitprac
+	url = https://github.com/kadambari05/gitprac.git
